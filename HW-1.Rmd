@@ -1,6 +1,6 @@
 ---
 title: "HW-1"
-author: "shivangsingh.manhas.rutgers.edu"
+author: "srk195@scarletmail.rutgers.edu"
 date: "9/22/2023"
 output:
   html_document:
